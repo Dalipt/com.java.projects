@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module com.java.project {
-}
